@@ -10,7 +10,7 @@ const jhon = {
 }
 ```
 
-#### 📫 You can find me on
+#### 📫 You can find me at
 - [**Twitter**](https://twitter.com/rettouseisama/)
 - [**Blogger**](https://rettouseisama.blogspot.com/)
 - [**CodePen**](https://codepen.io/rettouseisama/)
