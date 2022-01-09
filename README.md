@@ -11,8 +11,9 @@ const jhon = {
 ```
 
 #### 📫 You can find me at
-- [**Twitter**](https://twitter.com/rettouseisama/) as @rettouseisama
 - [**Blogger**](https://rettouseisama.blogspot.com/)  as Jhon Verdugo
+- [**Linkedin**](https://www.linkedin.com/in/rettouseisama/) as Jhon Stiven Verdugo Montañez / rettouseisama
+- [**Twitter**](https://twitter.com/rettouseisama/) as @rettouseisama
 - [**CodePen**](https://codepen.io/rettouseisama/)  as @rettouseisama
 
 <p align="right"><b>Have a Nice Day</b></p>
