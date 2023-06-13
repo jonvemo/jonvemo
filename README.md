@@ -6,7 +6,7 @@ I'm a Frontend Developer
 const jhon = {
   pronouns: 'he' | 'him',
   code: [JavaScript, HTML, CSS],
-  tools: [React, Blogger, VSCode]
+  tools: [React, Figma, VSCode, Blogger]
 }
 ```
 
