@@ -11,10 +11,10 @@ const jhon = {
 ```
 
 #### 📫 You can find me at
-- [**Blogger**](https://rettouseisama.blogspot.com/)  as Jhon Verdugo
-- [**Linkedin**](https://www.linkedin.com/in/rettouseisama/) as Jhon Stiven Verdugo Montañez / rettouseisama
-- [**Twitter**](https://twitter.com/rettouseisama/) as @rettouseisama
-- [**CodePen**](https://codepen.io/rettouseisama/)  as @rettouseisama
+- [**Blogger**](https://jonvemo.blogspot.com/)  as John Verdugo
+- [**Linkedin**](https://www.linkedin.com/in/jonvemo/) as John Stiven Verdugo Montañez / jonvemo
+- [**Twitter**](https://twitter.com/jonvemo/) as @jonvemo
+- [**CodePen**](https://codepen.io/jonvemo/)  as @jonvemo
 
 <p align="right"><b>Have a Nice Day</b></p>
 
