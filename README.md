@@ -14,8 +14,8 @@ const jhon = {
 - [**Linkedin**](https://www.linkedin.com/in/jonvemo/) as John Stiven Verdugo Montañez
 - [**CodePen**](https://codepen.io/jonvemo/)  as @jonvemo
 - [**Twitter**](https://twitter.com/jonvemodev/) as @jonvemodev
-- [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 - [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
+- [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 
 <p align="right"><b>Have a Nice Day</b></p>
 
