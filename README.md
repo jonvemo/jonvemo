@@ -1,6 +1,6 @@
 ### Hi, I'm Jhon ☃️
 
-I'm a Frontend Developer
+Frontend Developer
 
 ```js
 const jhon = {
