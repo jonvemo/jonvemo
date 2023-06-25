@@ -17,6 +17,10 @@ const jhon = {
 - [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
 - [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 
+### 🌿 Visit my Sites
+- [**Portfoil**](https://jonvenmo.com)
+- [**Blog**](https://jonvenmo.blogspot.com)
+
 <p align="right"><b>Have a Nice Day</b></p>
 
 <!--[![jhon's github stats](https://github-readme-stats.vercel.app/api?username=rettouseisama)](https://github.com/rettouseisama/github-readme-stats)
