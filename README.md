@@ -11,15 +11,15 @@ const jhon = {
 ```
 
 #### 📫 You can find me at
-- [**Linkedin**](https://www.linkedin.com/in/jonvemo/){:target="_blank"} as John Verdugo Montañez
-- [**CodePen**](https://codepen.io/jonvemo/){:target="_blank"}  as @jonvemo
-- [**Twitter**](https://twitter.com/jonvemodev/){:target="_blank"} as @jonvemodev
-- [**Instagram**](https://instagram.com/jonvemodev/){:target="_blank"} as @jonvemodev
-- [**Facebook**](https://facebook.com/jonvemodeveloper/){:target="_blank"} as @jonvemodeveloper
+- [**Linkedin**](https://www.linkedin.com/in/jonvemo/) as John Verdugo Montañez
+- [**CodePen**](https://codepen.io/jonvemo/) as @jonvemo
+- [**Twitter**](https://twitter.com/jonvemodev/)as @jonvemodev
+- [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
+- [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 
 ### 🌿 Visit my WebSites
-- [**Portfoil**](https://jonvenmo.com){:target="_blank"}
-- [**Blog**](https://jonvenmo.blogspot.com){:target="_blank"}
+- [**Portfoil**](https://jonvenmo.com)
+- [**Blog**](https://jonvenmo.blogspot.com)
 
 <p align="right"><b>Have a Nice Day</b></p>
 
