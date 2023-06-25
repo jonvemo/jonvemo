@@ -13,7 +13,7 @@ const jhon = {
 #### 📫 You can find me at
 - [**Linkedin**](https://www.linkedin.com/in/jonvemo/) as John Verdugo Montañez
 - [**CodePen**](https://codepen.io/jonvemo/) as @jonvemo
-- [**Twitter**](https://twitter.com/jonvemodev/)as @jonvemodev
+- [**Twitter**](https://twitter.com/jonvemodev/) as @jonvemodev
 - [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
 - [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 
