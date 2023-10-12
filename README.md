@@ -5,8 +5,8 @@ Frontend Developer
 ```js
 const jhon = {
   pronouns: 'he' | 'him',
-  code: [JavaScript, HTML, CSS],
-  tools: [React, Figma, VSCode, Blogger]
+  code: [JavaScript, TypeScript, HTML, CSS],
+  tools: [React, VSCode, Git, Figma, Blogger]
 }
 ```
 
