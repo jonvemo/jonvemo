@@ -18,7 +18,7 @@ const jhon = {
 - [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 
 #### 🌿 Visit my WebSites
-- [**Portfoil**](https://jonvemo.com)
+- [**Portfolio**](https://jonvemo.com)
 - [**Blog**](https://jonvemo.blogspot.com)
 
 <p align="right"><b>Have a Nice Day</b></p>
