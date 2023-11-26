@@ -15,7 +15,6 @@ const john = {
 - [**CodePen**](https://codepen.io/jonvemo/) as @jonvemo
 - [**Twitter**](https://twitter.com/jonvemodev/) as @jonvemodev
 - [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
-- [**Facebook**](https://facebook.com/jonvemodeveloper/) as @jonvemodeveloper
 
 #### 🌿 Visit my WebSites
 - [**Portfolio**](https://jonvemo.com)
