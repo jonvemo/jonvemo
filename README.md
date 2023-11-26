@@ -1,9 +1,9 @@
-### Hi, I'm Jhon ☃️
+### Hi, I'm John ☃️
 
 Frontend Developer
 
 ```js
-const jhon = {
+const john = {
   pronouns: 'he' | 'him',
   code: [JavaScript, TypeScript, HTML, CSS],
   tools: [React, VSCode, Git, Figma, Blogger]
