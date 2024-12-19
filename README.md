@@ -1,6 +1,7 @@
 ### Hi, I'm John ☃️
 
-Frontend Developer
+<p>Frontend Developer</p>
+![](https://komarev.com/ghpvc/?username=jonvemo&color=879ee3?style=for-the-badge&abbreviated=true)
 
 ```js
 const john = {
