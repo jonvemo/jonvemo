@@ -19,8 +19,7 @@ const john = {
 - [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
 
 #### 🌿 Visit my WebSites
-- [**Portfolio**](https://jonvemo.com)
-- [**Blog**](https://jonvemo.blogspot.com)
+- [**Portfolio**](https://jonvemo.dev)
 
 <p align="right"><b>Have a Nice Day</b></p>
 
