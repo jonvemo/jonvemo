@@ -13,8 +13,8 @@ const john = {
 ![](https://komarev.com/ghpvc/?username=jonvemo&color=879ee3&style=for-the-badge)
 
 #### 📫 You can find me at
-- [**Linkedin**](https://www.linkedin.com/in/jonvemo/) as John Verdugo
-- [**CodePen**](https://codepen.io/jonvemo/) as @jonvemo
+- [**Linkedin**](https://www.linkedin.com/in/jonvemodev/) as John V.
+- [**CodePen**](https://codepen.io/jonvemodev/) as @jonvemodev
 - [**Twitter**](https://twitter.com/jonvemodev/) as @jonvemodev
 - [**Instagram**](https://instagram.com/jonvemodev/) as @jonvemodev
 
